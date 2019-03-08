@@ -1,7 +1,7 @@
 # Algorithms-in-python
 This repository contains algorithms in python.
 
-- **Euclidean_gcd** : This file contains the  Euclidean Algorithm to compute gcd of two numbers.  
+- **Euclidean_gcd** : This file contains the  **Euclidean** Algorithm to compute gcd of two numbers.  
 
   ### Basic Euclidean Algorithm for GCD :
   The algorithm is based on below facts.
