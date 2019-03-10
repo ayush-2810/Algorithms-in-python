@@ -10,5 +10,7 @@ This repository contains algorithms in python.
      - Now instead of subtraction, if we divide smaller number, the algorithm stops when we find remainder 0.
 
 
-- **Unordered_pairs** : This file contains an in-built function which can be used for making all unordered pairs from a given list.  
-It uses itertools module which contains a function named combination to generate all the pairs from a list.  
+- ## **Unordered_pairs** : This file contains an in-built function which can be used for making all unordered pairs from a given list.    
+
+   - It uses itertools module.
+   - It contains a function named combination which is used to generate all the pairs from a list.  
