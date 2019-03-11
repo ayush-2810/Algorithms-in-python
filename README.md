@@ -13,4 +13,4 @@ This repository contains algorithms in python.
 - ## **Unordered_pairs** : This file contains an in-built function which can be used for making all unordered pairs from a given list.    
 
    - It uses **itertools** module.
-   - It contains a function named **combination** which is used to generate all the pairs from a list.  
+   - It contains a function named **combination** which is used to generate all the **pairs** from a list.  
