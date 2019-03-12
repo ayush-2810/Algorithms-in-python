@@ -14,3 +14,9 @@ This repository contains algorithms in python.
 
    - It uses **itertools** module.
    - It contains a function named **combination** which is used to generate all the **pairs** from a list.  
+   
+  
+ - ## Subarray : This file contains a way to make all subarrays from a given list.  
+ 
+   - It also uses itertools module.  
+   - It uses function combination to generate all subarrays.  
