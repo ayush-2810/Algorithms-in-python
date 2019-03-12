@@ -19,4 +19,4 @@ This repository contains algorithms in python.
  - ## Subarray : This file contains a way to make all subarrays from a given list.  
  
    - It also uses **itertools** module.  
-   - It uses function combination to generate all subarrays.  
+   - It uses function **combination** to generate all subarrays.  
