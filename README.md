@@ -24,3 +24,7 @@ This repository contains **algorithms** in **python**.
 
 - ## **Merge_sort** : This file contains the algorithm of sorting which sorts the list in ascending order. Name of the algorithm is merge sort.  
 
+     - Merge Sort is a **Divide and Conquer** algorithm. It divides input array in two halves, calls itself for the two halves and then merges the two sorted halves.  
+     - Time complexity : O(nlog(n)).  
+     - Space complexity : O(n).  
+     
