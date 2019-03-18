@@ -34,6 +34,6 @@ This repository contains **algorithms** in **python**.
   - Like the Naive Algorithm, Rabin-Karp algorithm also slides the pattern one by one. But unlike the Naive algorithm, Rabin Karp algorithm matches the hash value of the pattern with the hash value of current substring of text, and if the hash values match then only it starts matching individual characters. So Rabin Karp algorithm needs to calculate hash values for following strings.  
   - Time complexity : 
       - **Best_case** **complexity** : O(n+m)
-      - Average_case complexity : O(n+m)
+      - **Average_case** **complexity** : O(n+m)
       - Worst_case complexity : O(nm)  
      
