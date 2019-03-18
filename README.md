@@ -29,7 +29,7 @@ This repository contains **algorithms** in **python**.
      - **Space** **complexity** : O(n).  
      
      
-- Rabin_karp : This file contains an algorithm which finds the number of occurences in a given text.  
+- ## Rabin_karp : This file contains an algorithm which finds the number of occurences in a given text.  
 
   - Like the Naive Algorithm, Rabin-Karp algorithm also slides the pattern one by one. But unlike the Naive algorithm, Rabin Karp algorithm matches the hash value of the pattern with the hash value of current substring of text, and if the hash values match then only it starts matching individual characters. So Rabin Karp algorithm needs to calculate hash values for following strings.  
   - Time complexity : 
