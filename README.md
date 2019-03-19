@@ -35,5 +35,5 @@ This repository contains **algorithms** in **python**.
   - Time complexity : 
       - **Best_case** **complexity** : O(n+m)
       - **Average_case** **complexity** : O(n+m)
-      - Worst_case complexity : O(nm)  
+      - **Worst_case** **complexity** : O(nm)  
      
