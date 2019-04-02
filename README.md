@@ -36,4 +36,7 @@ This repository contains **algorithms** in **python**.
       - **Best_case** **complexity** : O(n+m)
       - **Average_case** **complexity** : O(n+m)
       - **Worst_case** **complexity** : O(nm)  
+      
+      
+- ## Radix_sort : This file contains an algorithm which sorts the list in ascending order. Name of the algorithm is radix sort.  
      
