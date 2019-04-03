@@ -39,5 +39,5 @@ This repository contains **algorithms** in **python**.
       
       
 - ## Radix_sort : This file contains an algorithm which sorts the list in ascending order. Name of the algorithm is radix sort.  
-     - Time complexity : O((n+b) * logb(k)) (b is for representing base of the numbers, k is the maximum possible value  and n is number 
+     - **Time** **complexity** : O((n+b) * logb(k)) (b is for representing base of the numbers, k is the maximum possible value  and n is number 
      of elements.  
