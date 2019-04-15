@@ -51,3 +51,6 @@ This repository contains **algorithms** in **python**.
 - ## Insertion_sort : This file contains an algorithm which sorts the list in ascending order. Name of the algorithm is bubble sort.
     - **Time** **complexity** : O(n<sup>2</sup>)
     - **Space** **complexity** : O(1)   
+    
+    
+- Integer_extractor : This file contains a code to extract all the integers from a given string.
