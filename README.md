@@ -53,4 +53,4 @@ This repository contains **algorithms** in **python**.
     - **Space** **complexity** : O(1)   
     
     
-- Integer_extractor : This file contains a code to extract all the integers from a given string.
+- ## Integer_extractor : This file contains a code to extract all the integers from a given string.
