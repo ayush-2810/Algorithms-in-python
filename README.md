@@ -26,9 +26,9 @@ This repository contains **algorithms** in **python**.
 
      - **Merge** **Sort** is a **Divide and Conquer** algorithm. It divides input array in two halves, calls itself for the two halves and then merges the two sorted halves.  
      - **Time** **complexity** : 
-      - Best case :  O(nlog(n)
-      - Average case : O(nlogn)
-      - Worst case : O(nlogn)
+        - Best case :  O(nlog(n)
+        - Average case : O(nlogn)
+        - Worst case : O(nlogn)
     - **Space** **complexity** : O(n) 
      
      
@@ -48,9 +48,9 @@ This repository contains **algorithms** in **python**.
      
 - ## Bubble_sort : This file contains an algorithm which sorts the list in ascending order. Name of the algorithm is bubble sort.   
      - **Time** **complexity** : 
-      - Best case :  O(n)
-      - Average case : O(n<sup>2</sup>)
-      - Worst case : O(n<sup>2</sup>)
+        - Best case :  O(n)
+        - Average case : O(n<sup>2</sup>)
+        - Worst case : O(n<sup>2</sup>)
     - **Space** **complexity** : O(1)   
      
      
