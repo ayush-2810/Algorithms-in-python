@@ -49,8 +49,11 @@ This repository contains **algorithms** in **python**.
      
      
 - ## Insertion_sort : This file contains an algorithm which sorts the list in ascending order. Name of the algorithm is insertion sort.
-    - **Time** **complexity** : O(n<sup>2</sup>)
-    - **Space** **complexity** : O(1)   
+    - **Time** **complexity** : 
+      - Best case :  O(n)
+      - Average case : O(n<sup>2</sup>)
+      - Worst case : O(n<sup>2</sup>)
+    - **Space** **complexity** : O(1) 
     
     
 - ## **Integer_extractor** : This file contains a code to extract all the integers from a given string.
@@ -61,7 +64,7 @@ This repository contains **algorithms** in **python**.
       - Best case :  O(n<sup>2</sup>)
       - Average case : O(n<sup>2</sup>)
       - Worst case : O(n<sup>2</sup>)
-    - **Space** **complexity** : O(1) )  
+    - **Space** **complexity** : O(1)  
     
     
 - ## Quick_sort : This file contains an algorithm which sorts the list in ascending order. Name of the algorithm is quick sort.
