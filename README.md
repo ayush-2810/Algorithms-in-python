@@ -25,8 +25,11 @@ This repository contains **algorithms** in **python**.
 - ## **Merge_sort** : This file contains the algorithm of sorting which sorts the list in ascending order. Name of the algorithm is merge sort.  
 
      - **Merge** **Sort** is a **Divide and Conquer** algorithm. It divides input array in two halves, calls itself for the two halves and then merges the two sorted halves.  
-     - **Time** **complexity** : O(nlog(n)).  
-     - **Space** **complexity** : O(n).  
+     - **Time** **complexity** : 
+      - Best case :  O(nlog(n)
+      - Average case : O(nlogn)
+      - Worst case : O(nlogn)
+    - **Space** **complexity** : O(n) 
      
      
 - ## **Rabin_karp** : This file contains an algorithm which finds the number of occurences in a given text.  
