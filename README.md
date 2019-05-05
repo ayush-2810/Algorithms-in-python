@@ -56,7 +56,7 @@ This repository contains **algorithms** in **python**.
 - ## **Integer_extractor** : This file contains a code to extract all the integers from a given string.
 
 
-- ## Insertion_sort : This file contains an algorithm which sorts the list in ascending order. Name of the algorithm is seection sort.
+- ## Insertion_sort : This file contains an algorithm which sorts the list in ascending order. Name of the algorithm is insertion sort.
     - **Time** **complexity** : 
       - Best case : O(nlogn)
       - Average case : O(n<sup>2</sup>)
